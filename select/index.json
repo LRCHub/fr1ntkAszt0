@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Massara",
+  "base_artist": "androp",
+  "createdAt": "2025-12-28T13:36:09.457761Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Massara",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/01_Massara_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Massara",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/02_Massara_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Massara",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/03_Massara_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C-ute - Massara Blue Jeans",
+      "artist": "EATFAIL",
+      "has_synced": true,
+      "path": "select/04_C-ute_-_Massara_Blue_Jeans_EATFAIL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "massara",
+      "artist": "kanaboon",
+      "has_synced": true,
+      "path": "select/05_massara_kanaboon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Massara Blue Jeans",
+      "artist": "℃-ute",
+      "has_synced": true,
+      "path": "select/06_Massara_Blue_Jeans_°C-ute.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Massara Blue Jeans",
+      "artist": "℃-ute",
+      "has_synced": false,
+      "path": "select/07_Massara_Blue_Jeans_°C-ute.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Massara Blue Jeans (Instrumental)",
+      "artist": "℃-ute",
+      "has_synced": false,
+      "path": "select/08_Massara_Blue_Jeans_(Instrumental)_°C-ute.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "massara bluejeans(2012 shinseinaru Ver.)",
+      "artist": "℃-ute",
+      "has_synced": false,
+      "path": "select/09_massara_bluejeans(2012_shinseinaru_Ver.)_°C-ute.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Massara feat. 井上竜馬",
+      "artist": "androp",
+      "has_synced": false,
+      "path": "select/pl_01_Massara_feat._井上竜馬_androp.txt"
+    }
+  ]
+}
